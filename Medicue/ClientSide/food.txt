@@ -1,0 +1,15 @@
+drugname,1
+drugname2,6
+drugname,10
+drugname2,3
+drugname,4
+drugname2,5
+drugname,5
+drugname,6
+drugname2,7
+drugname,8
+drugname,8
+drugname2,9
+drugname,7
+drugname2,7
+drugname,6
